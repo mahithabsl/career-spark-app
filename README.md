@@ -2,6 +2,9 @@
 
 A React application for Career Spark - Entertainment Pathways.
 
+https://github.com/user-attachments/assets/b2910712-0df3-4882-b6cd-4ae0d406d3c4
+
+
 ## Getting Started
 
 ### Prerequisites
