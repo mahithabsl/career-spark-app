@@ -2,18 +2,45 @@
 
 A React application for Career Spark - Entertainment Pathways.
 
+## Authors
+- Mahitha
+- Pancham
+- Ruudra
+
 https://github.com/user-attachments/assets/b2910712-0df3-4882-b6cd-4ae0d406d3c4
 
 
-## Getting Started
+## 📋 Table of Contents
+- [Features](#-features)
+- [Prerequisites](#%EF%B8%8F-prerequisites)
+- [Installation](#-getting-started)
+  - [Frontend Dependencies](#frontend-dependencies)
+  - [Backend Dependencies](#backend-dependencies-python)
+- [Running the App](#-running-the-app)
+- [Environment Variables](#-environment-variables)
+- [AWS Setup](#-aws-setup)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
 
-### Prerequisites
+## 🌟 Features
+
+## 🚀 Features
+
+- **AI-Powered Career Guidance**: Get personalized career recommendations in the entertainment industry
+- **Interactive Assessments**: Complete personality and skills assessments
+- **Virtual Experience**: Simulate different career roles
+- **Mentor Chatbot**: Get career advice from AI mentors
+- **Peer Recommendations**: Connect with peers in your field of interest
+
+## 🛠️ Prerequisites
 - Node.js (v18 or higher)
 - npm or yarn
 - Python 3.8 or higher
 - pip (Python package manager)
+- AWS Account (for S3 storage)
 
-### Installation
+## 🚀 Getting Started
 
 #### Frontend Dependencies
 Dependencies are already installed. If you need to reinstall:
