@@ -23,6 +23,16 @@ https://github.com/user-attachments/assets/b2910712-0df3-4882-b6cd-4ae0d406d3c4
 - [Contributing](#-contributing)
 - [License](#-license)
 
+## 📄 License
+
+This project is licensed under the GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+Key points:
+- Free to use, modify, and distribute
+- Any modifications must be open source
+- Applies to network/server use
+- Must include original copyright and license
+
 ## 🌟 Features
 
 ## 🚀 Features
