@@ -35,8 +35,6 @@ Key points:
 
 ## 🌟 Features
 
-## 🚀 Features
-
 - **AI-Powered Career Guidance**: Get personalized career recommendations in the entertainment industry
 - **Interactive Assessments**: Complete personality and skills assessments
 - **Virtual Experience**: Simulate different career roles
